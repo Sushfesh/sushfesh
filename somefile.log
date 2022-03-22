@@ -123,3 +123,4 @@ GET /profile/transaction
 GET /profile/awards
 GET /
 GET /favicon.ico
+GET /
